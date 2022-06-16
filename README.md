@@ -1,2 +1,2 @@
-# C
-Practicals of C programming language
+# C++
+Practicals of C++ programming language
